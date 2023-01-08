@@ -8,8 +8,8 @@
 }
 .main-body{
     min-height: 100vh;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     /* height: 770PX;
     width: 1500px; */
     display: flex;
@@ -19,9 +19,9 @@
 
 }
 .sub-body{
-    border: 2px dotted white;
+    border: 2px dotted black;
     
-    background-color: black;
+    background-color: white;
     
     height: 700px;
     width: 1300px;
@@ -33,22 +33,24 @@
     padding:10px 20px ;
 
 }
-.navside{
-    display: flex;
-    gap: 70px;
-    padding-top: 7px;
-    padding-right: 20px;
-    font-size: 19px;
-}
 
-/* #name-logo{
-    padding-left: 30px;
-    padding-top: 20px;
-} */
 .aboutclass {
     margin-left: 100px;
     margin-top: 200px;
     font-size: 30px;
+   
+}
+#resumebtn{
+    font-size: 18px;
+        border: 2px solid transparent;
+        background-color: black;
+        color: white;
+        padding-right: 5px;
+        padding-left: 5px;
+}
+
+.fade {
+    opacity: 0;
 }
 #hello{
     font-size: 18px;
@@ -61,44 +63,34 @@
 #whatido{
     font-size: 18px;
 }
-.mainbtns{
-    display: flex;
-    justify-content: space-between;
-}
+
+
 #contact-me-btn{
     font-size: 18px;
     border: 2px solid transparent;
-    background-color: white;
-        color: black;
-        padding-right: 5px;
-        padding-left: 5px;
-        border-radius: 10px;
-        margin-top: 20px;
-        margin-left: 100px;
-}
-#nextbtn{
-    border: 2px solid transparent;
-        background-color: black;
+    background-color: black;
         color: white;
         padding-right: 5px;
         padding-left: 5px;
         border-radius: 10px;
         margin-top: 20px;
-        margin-right: 60px;
+        
+}
+#nextbtn{
+    border: 2px solid transparent;
+        background-color: white;
+        color: black;
+       
+        
+        margin-top: 50px;
+        margin-left: 90%;
         cursor: pointer;
 }
-/* button{
-            
-            font-size: 20px;
-            border: 2px solid transparent;
-            background-color: black;
-            color: white;
-        
-} */
+
 
 a{
     text-decoration: none;
-    color: white;
+    color: black;
 }
 .projectsdisplay{
     display: flex;
