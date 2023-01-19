@@ -43,7 +43,7 @@ Using the grid,customers can explore products with VR glasses and purchase them 
  
 </p>
 
-<a id="mygridlink"href="www.google.com">view grid</a>
+<a id="mygridlink"href="www.google.com"  target="_blank">view grid</a>
  
 
 </div>
@@ -65,7 +65,7 @@ let displayItems4= `<div id="projects" class="myprojects">
 <p id="gridinfo">The Grid is a metaverse built on the Polygon Blockchain that provides a virtual environment for business to list and sell their goods.
 Using the grid,customers can explore products with VR glasses and purchase them using a web3wallet<br>
 </p>
-<a id="mygridlink"href="www.google.com">view sdg</a>
+<a id="mygridlink"href="www.google.com" target="_blank">view sdg</a>
 </div>
 </div>`
 
@@ -77,7 +77,7 @@ let displayItems5= `<div id="projects" class="myprojects">
 <p id="gridinfo">The Grid is a metaverse built on the Polygon Blockchain that provides a virtual environment for business to list and sell their goods.
 Using the grid,customers can explore products with VR glasses and purchase them using a web3wallet<br>
 </p>
-<a id="mygridlink"href="www.google.com">view eDchain</a>
+<a id="mygridlink"href="https://github.com/0xpradish/MyPortfolio/blob/main/cover letter cloudsek.pdf" target="_blank">view eDchain</a>
 </div>
 </div>`
 
@@ -91,7 +91,7 @@ let displayItems6= `<div id="projects" class="myprojects">
 <div>
 <p id="gridinfo">Blockchain Technologies: Smart Contracts for Consumer Electronics Data Sharing and Secure Payment<br>
 </p>
-<a id="mygridlink"href="www.google.com">view paper</a>
+<a id="mygridlink"href="https://www.mdpi.com/2079-9292/12/1/208/pdf" target="_blank">view paper</a>
 </div>
 </div>`
 
